@@ -27,3 +27,69 @@
     left: 611px;
     overflow: hidden;
   }
+  .placement-surface {
+    width: 700px;
+    height: 900px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .header {
+    width: 636px;
+    height: 368px;
+    background: url("../images/v217_1035.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 24px;
+    left: 36px;
+    overflow: hidden;
+  }
+  .logo-holder {
+    width: 542px;
+    height: 234px;
+    background: url("../images/v222_2467.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 27px;
+    left: 53px;
+    overflow: hidden;
+  }
+  .logo {
+    width: 522px;
+    height: 215px;
+    background: url("../images/v219_2201.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .cursor-image {
+    width: 68px;
+    height: 77px;
+    background: url("../images/v222_2466.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 157px;
+    left: 474px;
+    overflow: hidden;
+  }
