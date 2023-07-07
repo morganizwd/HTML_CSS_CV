@@ -93,3 +93,451 @@
     left: 474px;
     overflow: hidden;
   }
+  .header-text {
+    width: 174px;
+    height: 96px;
+    background: url("../images/v217_1050.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 247px;
+    left: 99px;
+    overflow: hidden;
+  }
+  .portfolio-title {
+    width: 111px;
+    color: rgba(1,1,1,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Roboto Flex;
+    font-weight: Medium;
+    font-size: 28px;
+    opacity: 1;
+    text-align: left;
+  }
+  .name {
+    width: 174px;
+    color: rgba(1,1,1,1);
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    font-family: Roboto Flex;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .profession {
+    width: 112px;
+    color: rgba(153,151,156,1);
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    font-family: Roboto Flex;
+    font-weight: Light;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+  }
+  .header-decor {
+    width: 636px;
+    height: 368px;
+    background: url("../images/v217_1054.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .particle-1 {
+    width: 8px;
+    height: 8px;
+    background: rgba(255,105,105,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 84px;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.14000000059604645);
+  }
+  .particle-2 {
+    width: 7px;
+    height: 7px;
+    background: rgba(255,105,240,1);
+    opacity: 1;
+    position: absolute;
+    top: 327px;
+    left: 629px;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.14000000059604645);
+  }
+  .particle-3 {
+    width: 3px;
+    height: 3px;
+    background: rgba(105,147,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 289px;
+    left: 504px;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.14000000059604645);
+  }
+  .particle-4 {
+    width: 7px;
+    height: 7px;
+    background: rgba(255,168,105,1);
+    opacity: 1;
+    position: absolute;
+    top: 20px;
+    left: 610px;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.14000000059604645);
+  }
+  .particle-5 {
+    width: 6px;
+    height: 6px;
+    background: rgba(207,255,105,1);
+    opacity: 1;
+    position: absolute;
+    top: 362px;
+    left: 257px;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.14000000059604645);
+  }
+  .vparticle-6 {
+    width: 4px;
+    height: 4px;
+    background: rgba(105,255,246,1);
+    opacity: 1;
+    position: absolute;
+    top: 188px;
+    left: 0px;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.14000000059604645);
+  }
+  .intro-text {
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 600px;
+    left: 112px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .main {
+    width: 501px;
+    height: 470px;
+    background: url("../images/v217_1062.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 378px;
+    left: 89px;
+    overflow: hidden;
+  }
+  .greeting {
+    width: 137px;
+    height: 28px;
+    background: url("../images/v217_1063.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 176px;
+    left: 21px;
+    overflow: hidden;
+  }
+  
+  .greeting-text {
+    width: 137px;
+    color: rgba(1,1,1,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: ExtraBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  
+  .about-me-container {
+    width: 204px;
+    height: 448px;
+    background: url("../images/v217_1066.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 16px;
+    opacity: 1;
+    position: absolute;
+    top: 12px;
+    left: 297px;
+    overflow: hidden;
+  }
+  .education-sections {
+    width: 204px;
+    height: 88px;
+    background: url("../images/v217_1067.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .education-info {
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 31px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .education-title {
+    width: 115px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: ExtraBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .software-skills-sections {
+    width: 204px;
+    height: 74px;
+    background: url("../images/v217_1070.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 104px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .skill-1{
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 31px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .skill-2 {
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .software-skills-title {
+    width: 174px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: ExtraBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .additional-skills-sections {
+    width: 204px;
+    height: 74px;
+    background: url("../images/v217_1074.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 194px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .skill-1_1 {
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 31px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .skill-1_2 {
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .additional-skills-title {
+    width: 190px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: ExtraBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .languages-sections {
+    width: 204px;
+    height: 74px;
+    background: url("../images/v217_1078.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 284px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .language-1 {
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 31px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .language-2 {
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .languages-sections-title {
+    width: 127px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: ExtraBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .contacts-sections {
+    width: 204px;
+    height: 74px;
+    background: url("../images/v217_1082.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 374px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .contact-1 {
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 31px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .contact-2 {
+    width: 204px;
+    color: rgba(98,97,100,1);
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+  }
+  .contacts-sections-title {
+    width: 104px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Roboto;
+    font-weight: ExtraBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .avatar-placeholder {
+    width: 190px;
+    height: 190px;
+    background: url("../images/v226_21.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .bg-decorations {
+    width: 100%;
+    height: 100%;
+    background: url("../images/v222_2465.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    overflow: hidden;
+  }
+  
