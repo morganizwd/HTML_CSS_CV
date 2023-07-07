@@ -1,2 +1,1 @@
-# HTML_CSS_CV
- 
+https://morganizwd.github.io/HTML_CSS_CV/index.html
