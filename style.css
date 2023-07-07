@@ -17,7 +17,7 @@
   .main-sheet {
     width: 700px;
     height: 900px;
-    background: url("../images/v217_1033.png");
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -96,7 +96,7 @@
   .header-text {
     width: 174px;
     height: 96px;
-    background: url("../images/v217_1050.png");
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -230,7 +230,7 @@
   .main {
     width: 501px;
     height: 470px;
-    background: url("../images/v217_1062.png");
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -243,7 +243,7 @@
   .greeting {
     width: 137px;
     height: 28px;
-    background: url("../images/v217_1063.png");
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -270,7 +270,7 @@
   .about-me-container {
     width: 204px;
     height: 448px;
-    background: url("../images/v217_1066.png");
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -284,7 +284,7 @@
   .education-sections {
     width: 204px;
     height: 88px;
-    background: url("../images/v217_1067.png");
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -321,7 +321,7 @@
   .software-skills-sections {
     width: 204px;
     height: 74px;
-    background: url("../images/v217_1070.png");
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -370,7 +370,7 @@
   .additional-skills-sections {
     width: 204px;
     height: 74px;
-    background: url("../images/v217_1074.png");
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -419,7 +419,7 @@
   .languages-sections {
     width: 204px;
     height: 74px;
-    background: url("../images/v217_1078.png");
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -468,7 +468,6 @@
   .contacts-sections {
     width: 204px;
     height: 74px;
-    background: url("../images/v217_1082.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -489,7 +488,21 @@
     font-size: 12px;
     opacity: 1;
     text-align: left;
+    z-index: 2;
   }
+
+  .contact-1 a {
+    color: rgba(98,97,100,1); 
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .contact-2 a {
+    color: rgba(98,97,100,1); 
+    cursor: pointer;
+    text-decoration: none; 
+  }
+
   .contact-2 {
     width: 204px;
     color: rgba(98,97,100,1);
@@ -501,6 +514,7 @@
     font-size: 12px;
     opacity: 1;
     text-align: left;
+    z-index: 2;
   }
   .contacts-sections-title {
     width: 104px;
@@ -539,5 +553,6 @@
     top: 1px;
     left: 0px;
     overflow: hidden;
+    z-index: 1;
   }
   
