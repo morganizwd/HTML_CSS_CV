@@ -1,1 +1,1 @@
-https://morganizwd.github.io/HTML_CSS_CV/index.html
+https://bright-tulumba-6b852d.netlify.app/
