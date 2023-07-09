@@ -17,16 +17,16 @@
   .main-sheet {
     width: 700px;
     height: 900px;
-    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 91px;
-    left: 611px;
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
     overflow: hidden;
-  }
+}
   .placement-surface {
     width: 700px;
     height: 900px;
